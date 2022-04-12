@@ -1,4 +1,4 @@
-# Bikesharting
+# Bikesharing
 
 # Overview of project
 NYC Citi Bikes analysis is a bike-sharing program business proposal to convince investors for investment. This analysis is a set of visualizations include the length of time that bikes are checked out for all riders and genders, the number of bikes for all riders and genders for each hour of each day of week.
